@@ -25,4 +25,5 @@ function App(){
     </View>
   );
 }
-export default App;
+// export default App;
+export default from "./storybook";
